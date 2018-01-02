@@ -261,7 +261,6 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   jekyll-compose
-  minima
   tzinfo-data
 
 BUNDLED WITH
