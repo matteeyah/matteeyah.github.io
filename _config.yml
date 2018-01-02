@@ -31,6 +31,33 @@ plugins:
   - jekyll-seo-tag
 permalink: "/:title"
 
+# SEO
+
+twitter:
+  username: matteeyah
+
+facebook:
+  publisher: 1439000036
+  admins: 1439000036
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/logo.png
+      author: matteeyah
+
+social:
+  name: Matija Čupić
+  links:
+    - https://twitter.com/matteeyah
+    - https://www.facebook.com/matija.cupic
+    - https://www.linkedin.com/in/matteeyah
+    - https://github.com/matteeyah
+    - https://keybase.io/matteeyah
+    - https://reddit.com/user/matteeyah
+    - https://news.ycombinator.com/user?id=matteeyah
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
