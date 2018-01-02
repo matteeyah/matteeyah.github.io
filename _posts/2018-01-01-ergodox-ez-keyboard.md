@@ -60,9 +60,9 @@ to the surface, but there's also one drawback: dust sticks to them. But that
 dust is cleanable with a quick sweep with a wet wipe.
 
 There's also one more annoyance that I noticed. When using the tilt/tent kit
-pads, the kit itself isn't strong enough to support the weight of my hands when
+washers, the kit itself isn't strong enough to support the weight of my hands when
 typing. It's important to note that this is _only_ when tenting at a very dull
-angle and when you use the tilt/tent kit pads.
+angle and when you use the tilt/tent kit washers.
 
 #### Ergonomics
 
@@ -76,7 +76,7 @@ strain from prolonged keyboard usage.
 The tilt/tent kit provides amazing adjustability. It takes some time to find the
 position that's most comfortable for you. It's because you're not used to this
 kind of support if you haven't experienced it before. The kit is very sturdy and
-solid, provided you use the kit without the pads - most people don't use them.
+solid, provided you use the kit without the washers - most people don't use them.
 
 One of the best things about the keyboard is that it's ortholinear - it's not
 staggered. This is another one of those things you can't know what it's like
