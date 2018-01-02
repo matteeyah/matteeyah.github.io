@@ -2,6 +2,7 @@
 layout: post
 title: Ergodox EZ is THE Keyboard
 date: 2018-01-01 21:27 +0100
+image: /assets/images/ergodox-ez.jpg
 categories: tech hardware
 ---
 
