@@ -32,6 +32,7 @@ plugins:
 permalink: "/:title"
 
 # SEO
+google_analytics: UA-111776181-1
 
 twitter:
   username: matteeyah
