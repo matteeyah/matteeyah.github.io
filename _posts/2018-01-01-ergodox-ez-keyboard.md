@@ -12,8 +12,8 @@ EZ][ergodox-ez].
 Before deciding to treat myself, I used a [Cooler Master Storm QuickFire
 TK][cm-qfr-tk]. That keyboard isn't bad, but since typing is what I do for a
 living, I thought I should consider an ergonomic one. That was also my first
-mechanical keyboard. Before the CM QFR TK, I used a [Microsoft Natural
-Ergonomic Keyboard 4000][ms-natural-ergo-4000].
+mechanical keyboard. Before the CM QFR TK, I used a [Microsoft Natural Ergonomic
+Keyboard 4000][ms-natural-ergo-4000].
 
 ### Enter the dragon
 
@@ -60,14 +60,14 @@ to the surface, but there's also one drawback: dust sticks to them. But that
 dust is cleanable with a quick sweep with a wet wipe.
 
 There's also one more annoyance that I noticed. When using the tilt/tent kit
-washers, the kit itself isn't strong enough to support the weight of my hands when
+washers, the kit isn't strong enough to support the weight of my hands when
 typing. It's important to note that this is _only_ when tenting at a very dull
 angle and when you use the tilt/tent kit washers.
 
 #### Ergonomics
 
-Here comes the best part - this is where the keyboard excels! Every component
-is adjustable.
+Here comes the best part - this is where the keyboard excels! Every component is
+adjustable.
 
 The wrist pads aren't connected to the keyboard, so you can position them
 whichever way you like. Moving them a bit from time to time helps deal with hand
@@ -76,7 +76,8 @@ strain from prolonged keyboard usage.
 The tilt/tent kit provides amazing adjustability. It takes some time to find the
 position that's most comfortable for you. It's because you're not used to this
 kind of support if you haven't experienced it before. The kit is very sturdy and
-solid, provided you use the kit without the washers - most people don't use them.
+solid, provided you use the kit without the washers - most people don't use
+them.
 
 One of the best things about the keyboard is that it's ortholinear - it's not
 staggered. This is another one of those things you can't know what it's like
@@ -87,6 +88,19 @@ one part for each hand. This allows you to move them apart as much as you want,
 which helps prevent ulnar deviation. This goes hand in hand with sculpted
 keycaps. Both of them help support proper hand positioning when typing.
 
+#### Ideas
+
+Even though the included LEDs are cool and fun to use, the keyboard doesn't have
+any key backlighting. This is one of the things that I'd like to see in one of
+the future iterations.
+
+Some time after I got my board, Ergodox announced they now have replacable key
+switches. This is a great sign that the company is improving the product and not
+growing complacent.
+
+They also accept bitcoin as a payment method. You won't see bitcoin as an
+accepted payment method at many other keyboard manufacturers.
+
 #### Experience
 
 The experience is sublime. It's everything you ever wanted from a keyboard and
@@ -94,9 +108,9 @@ then some.
 
 I'll write about a couple more things that contribute to the experience you get.
 
-I hit a snag with the keyboard firmware. My Ergodox is the _Shine_ version of the
-keyboard, that one has customizable RGB LEDs in it. The default firmware that
-came with the keyboard had a bug. A version of
+I hit a snag with the keyboard firmware. My Ergodox is the _Shine_ version of
+the keyboard, that one has customizable RGB LEDs in it. The default firmware
+that came with the keyboard had a bug. A version of
 [QMK](https://github.com/qmk/qmk_firmware) didn't work with the C file generated
 by the ergodox configurator. This caused the LED controls to misbehave. I sent
 an email with the explanation of the problem. The founder responded, debugged
