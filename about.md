@@ -16,4 +16,3 @@ Links:
 * https://twitter.com/matteeyah
 * https://www.linkedin.com/in/matteeyah/
 * https://keybase.io/matteeyah/
-* https://matteeyah.com/
