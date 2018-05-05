@@ -270,7 +270,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (~> 183)
+  github-pages
   jekyll-admin (~> 0.8.0)
   jekyll-compose (~> 0.8.0)
   tzinfo-data
