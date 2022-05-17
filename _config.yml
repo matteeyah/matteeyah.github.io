@@ -14,13 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "{{Matt.Code}}"
-email: matteeyah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Life and code through the eyes of Matt.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matteeyah.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# General
+name: Matija Čupić
+email: matteeyah@gmail.com
+
 twitter_username: matteeyah
-github_username:  matteeyah
+github_username: matteeyah
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/logo.png
 
 # Build settings
 markdown: kramdown
@@ -35,18 +45,12 @@ permalink: "/:title"
 google_analytics: UA-111776181-1
 
 twitter:
+  card: summary
   username: matteeyah
 
 facebook:
   publisher: 1439000036
   admins: 1439000036
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: /assets/images/logo.png
-      author: matteeyah
 
 social:
   name: Matija Čupić
