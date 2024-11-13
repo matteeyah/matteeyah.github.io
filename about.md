@@ -10,7 +10,8 @@ at [GitLab](https://about.gitlab.com)
 - [Contributor Success Fullstack Engineer](https://about.gitlab.com/job-families/engineering/quality/contributor-success/fullstack-engineer/)
 at [GitLab](https://about.gitlab.com)
 - Team Lead at [Pennylane](https://www.pennylane.com/fr/)
-- *Current*: Founding Engineer at [OpTonal](https://optonal.com/)
+- Founding Engineer at [OpTonal](https://optonal.com/)
+- *Current*: Co-founder at [OpTonal](https://optonal.com/)
 
 After a short andventure in academia, I diverted my attention towards software
 engineering. It's worth noting that that adventure in academia culminated in a
@@ -68,16 +69,25 @@ In September 2022 a dream came true. A colleague from GitLab asked me to work on
 an early stage startup he founded. The startup is OpTonal and I currently work
 here.
 
-It's often very eclectic and chaotic. I do all kinds of different work to drive
-the success of the company. Feature improvements, brainstorming, OKRs, process
-changes, customer interactions - it's all there.
+I was the first engineering hire. After joining, my first priority was to
+transition product development from an outsourced effort to an in-house effort.
+Building on top of that, the next priority was creating a safe environment that
+nurtures enthusiastic and fast changes. Over time, I lead the transition from
+using an external agency to having a team of 7 engineers in-house that I managed.
 
-My day to day here is usually oriented around delivering changes at breakneck
-speed. Every. Single. Day. There's also other interesting parts like empowering
-others to move fast. Making sure everyone feels safe while making enthusiastic
-changes. Understanding the customer and meeting with them ell. We go out of our
-way to make sure there's minimal process overhead and we're operating as lean as
-possible.
+Due to a weird turn of events one of the original co-founders left, and I
+stepped up and ”became” a co-founder. This was my first experience with making
+strategic techinical decisions. We’ve ”bet the business” on the direction of
+AI development and focusing on using publicly available general models instead
+of investing in developing custom specialized models. This allowed us to pull
+ahead of the competition by focusing on features that are not made redundant by
+the rapid advancement of AI.
+
+Another large aspect of my work is building on top of what I built previously
+and creating a culture of ”breakneck” engineering velocity. We set
+30 changes / engineer / month as an ambitious goal. I focused on finding ways to
+empower engineers to make decisions, be autonomous and deliver changes as
+independently as possible, while still providing support when needed.
 
 Links:
 * <https://github.com/matteeyah/>
