@@ -66,28 +66,33 @@ observability for banking systems stability. The last piece of my daily work was
 delivering product improvements.
 
 In September 2022 a dream came true. A colleague from GitLab asked me to work on
-an early stage startup he founded. The startup is OpTonal and I currently work
-here.
+an early stage startup he founded. The startup is called OpTonal.
 
-I was the first engineering hire. After joining, my first priority was to
-transition product development from an outsourced effort to an in-house effort.
-Building on top of that, the next priority was creating a safe environment that
-nurtures enthusiastic and fast changes. Over time, I lead the transition from
-using an external agency to having a team of 7 engineers in-house that I managed.
+I loved everything about OpTonal, but it came with a catch. The product was
+developed by an outsourcing agency. We needed to take ownership of engineering,
+so I focused on that. Over time, we moved from using an external agency to
+having a team of 7 engineers.
 
-Due to a weird turn of events one of the original co-founders left, and I
-stepped up and ”became” a co-founder. This was my first experience with making
-strategic techinical decisions. We’ve ”bet the business” on the direction of
-AI development and focusing on using publicly available general models instead
-of investing in developing custom specialized models. This allowed us to pull
-ahead of the competition by focusing on features that are not made redundant by
-the rapid advancement of AI.
+After assuming ownership of engineering, I set out to set a high bar for both
+quality and velocity. I built an environment that facilitates enthusiastic and
+fast changes. A key part was making everyone feel comfortable with making
+frequent and far-reaching changes. It's my personal belief that engineering orgs
+operate best when engineers feel safe. Systems and processes should act as
+"safety nets" for engineers. They should prevent them from causing any damage,
+and in turn creating a sense of safety.
 
-Another large aspect of my work is building on top of what I built previously
-and creating a culture of ”breakneck” engineering velocity. We set
-30 changes / engineer / month as an ambitious goal. I focused on finding ways to
-empower engineers to make decisions, be autonomous and deliver changes as
-independently as possible, while still providing support when needed.
+Due to a weird turn of events one of the two OpTonal co-founders left. I stepped
+up and "became" a co-founder. A part of stepping up was making strategic
+technical decisions. I've "bet the business" on the direction of AI development.
+We focused on using publicly available general models instead of developing
+custom models. This allowed us to pull ahead of the competition. I prioritized
+features that are not made redundant by the rapid advancement of AI.
+
+Another instrumental part of the "OpTonal experience" was "breakneck"
+engineering velocity. We set 30 changes / engineer / month as an ambitious goal.
+This means that every engineer, on average, deployed changes 30 times per month.
+I searched for ways to empower engineers. Allowing them to make decisions, be
+autonomous and deliver changes as independently as possible.
 
 Links:
 * <https://github.com/matteeyah/>
