@@ -13,16 +13,16 @@ at [GitLab](https://about.gitlab.com)
 - Founding Engineer at [OpTonal](https://optonal.com/)
 - *Current*: Co-founder at [OpTonal](https://optonal.com/)
 
-After a short andventure in academia, I diverted my attention towards software
-engineering. It's worth noting that that adventure in academia culminated in a
-gold medal at ICYS 2016. ICYS is the International Conference for Young Scients.
-It gathers young scientists and ranks their research papers by impact.
+I won a gold medal at ICYS 2016. ICYS is the International Conference for Young
+Scients. It gathers young scientists and ranks their research papers by impact.
+After a short andventure in academia, I diverted my attention towards building
+software people love.
 
 I started working as a Community Advocate at GitLab. The mission was to
 cultivate and reshape GitLab's online community. After a year, I wanted to ramp
 up my engineering experience. I started working towards transitioning to a
-developer role. In January of 2018 I transferred to the CI/CD team as a Junior
-Developer. Here I worked to make sure our CI offering remains the best one on
+developer role. In January of 2018 I transferred to the CI/CD team as a
+developer. Here I worked to make sure our CI offering remains the best one on
 the market.
 
 In May of 2018 I got the the opportunity to manage the Community Advocacy team
@@ -66,7 +66,7 @@ observability for banking systems stability. The last piece of my daily work was
 delivering product improvements.
 
 In September 2022 a dream came true. A colleague from GitLab asked me to work on
-an early stage startup he founded. The startup is called OpTonal.
+an early stage startup he founded. The startup was called OpTonal.
 
 I loved everything about OpTonal, but it came with a catch. The product was
 developed by an outsourcing agency. We needed to take ownership of engineering,
@@ -93,6 +93,10 @@ engineering velocity. We set 30 changes / engineer / month as an ambitious goal.
 This means that every engineer, on average, deployed changes 30 times per month.
 I searched for ways to empower engineers. Allowing them to make decisions, be
 autonomous and deliver changes as independently as possible.
+
+We pivoted the product many times, but, unfortunately, we weren't able to find
+product market fit.  We weren't able to create exponential growth, this forced
+us to go for a much earlier exit than what we wanted.
 
 Links:
 * <https://github.com/matteeyah/>
