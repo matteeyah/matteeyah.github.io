@@ -11,7 +11,8 @@ at [GitLab](https://about.gitlab.com)
 at [GitLab](https://about.gitlab.com)
 - Team Lead at [Pennylane](https://www.pennylane.com/fr/)
 - Founding Engineer at [OpTonal](https://optonal.com/)
-- *Current*: Co-founder at [OpTonal](https://optonal.com/)
+- Co-founder at [OpTonal](https://optonal.com/)
+- *Current*: Backend Engineer at [Ticketsolve](https://www.ticketsolve.com)
 
 I won a gold medal at ICYS 2016. ICYS is the International Conference for Young
 Scients. It gathers young scientists and ranks their research papers by impact.
