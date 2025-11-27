@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-- [Community Advocate Manager](https://about.gitlab.com/job-families/marketing/community-advocate/)
+- [Community Advocate Manager](https://handbook.gitlab.com/job-families/marketing/developer-advocate/)
 at [GitLab](https://about.gitlab.com)
-- [Backend Engineer](https://about.gitlab.com/job-families/engineering/backend-engineer/)
-- [Contributor Success Fullstack Engineer](https://about.gitlab.com/job-families/engineering/quality/contributor-success/fullstack-engineer/)
+- [Backend Engineer](https://handbook.gitlab.com/job-families/engineering/development/backend/)
+- [Contributor Success Fullstack Engineer](https://handbook.gitlab.com/job-families/marketing/contributor-success/fullstack-engineer/)
 at [GitLab](https://about.gitlab.com)
 - Team Lead at [Pennylane](https://www.pennylane.com/fr/)
 - Founding Engineer at [OpTonal](https://optonal.com/)
